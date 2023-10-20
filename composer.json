@@ -3,7 +3,8 @@
     "type": "library",
     "description": "Omnipay extension for MetropolCard",
     "keywords": [
-        "tokenflex",
+        "metropolcard",
+        "metropol",
         "omnipay",
         "ödeme",
         "otp",
